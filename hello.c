@@ -3,5 +3,5 @@
 int main(){
     printf("Hello world\n");
     printf("Its confusing");
-    printf("Lets add one more line");
+    return 0;
 }
