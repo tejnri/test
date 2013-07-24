@@ -9,5 +9,6 @@ int main(){
 
     printf("Line added to rebase1");
     printf("Line added to rebase2");
+    printf("Line added to rebase3");
     return 0;
 }
