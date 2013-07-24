@@ -8,5 +8,6 @@ int main(){
     printf("Added a new line again to check merge and fetch");
 
     printf("Line added to rebase1");
+    printf("Line added to rebase2");
     return 0;
 }
