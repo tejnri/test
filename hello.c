@@ -6,5 +6,7 @@ int main(){
     printf("Nothing is confusing");
     printf("Added a new line to check merge and fetch");
     printf("Added a new line again to check merge and fetch");
+
+    printf("Line added to rebase1");
     return 0;
 }
